@@ -1,0 +1,7 @@
+En este desarrollo verás como se captan valores tipo entero, se guardan en una matriz 5x5, se encuentra los valores par de ésta, y se imprimen todos los números de la matriz en orden de espiral.
+
+Puedes importar el zip en tu editor favorito.
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
