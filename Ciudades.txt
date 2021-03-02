@@ -1,0 +1,7 @@
+En este desarrollo verás como se captan valores tipo entero, en función de distancias y ciudades, se imprimen la distancia más corta y la más larga
+
+Puedes importar el zip en tu editor favorito.
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
