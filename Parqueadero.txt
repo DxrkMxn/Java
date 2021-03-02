@@ -1,0 +1,12 @@
+En este desarrollo podrás analizar en código cómo se cuentan las palabras de un texto definido, la actividad a realizar en este paquete es:
+
+1. Cambiar el package parqueadero por: cuentapalabras
+
+2. Cambiar la etiqueta BuscaPalabras por CuentaPalabras con exíto de compilación.
+
+
+Puedes importar el zip en tu editor favorito.
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
