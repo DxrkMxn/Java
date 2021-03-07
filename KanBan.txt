@@ -1,0 +1,18 @@
+En este desarrollo podrás aprender sobre entornos GUI, la actividad a realizar en este paquete es:
+
+1. Investigue cuál es el archivo que se importa, su estructura interna, una vez terminado esto, termine el Método encargado de exportar el archivo para que se exporte correctamente.
+
+2. Cuando se edita una tarea o se elimina, se presenta un error de interfaz, expliquelo y diga en sus palabras cómo cree que se podría solucionar.
+
+3. Bonus: Resuelva con código funcional el punto 2.
+
+
+
+Puedes importar el zip en tu editor favorito.
+
+
+
+
+Recuerda agradecer por aprender o usar mi código.
+
+Ing. Jhusef Alfonso López Parra
